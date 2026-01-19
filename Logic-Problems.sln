@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Beecrowd", "Beecrowd", "{CA019F14-7EA1-782F-C59A-05D5B3648440}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1 - Beginner", "1 - Beginner", "{72086C4A-BF90-0E37-3E21-DB1E823EB33D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1000", "Beecrowd\1 - Beginner\1000\1000.csproj", "{B5AF1ECB-D9F3-221D-3740-05820A562266}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5AF1ECB-D9F3-221D-3740-05820A562266}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5AF1ECB-D9F3-221D-3740-05820A562266}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5AF1ECB-D9F3-221D-3740-05820A562266}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5AF1ECB-D9F3-221D-3740-05820A562266}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{72086C4A-BF90-0E37-3E21-DB1E823EB33D} = {CA019F14-7EA1-782F-C59A-05D5B3648440}
+		{B5AF1ECB-D9F3-221D-3740-05820A562266} = {72086C4A-BF90-0E37-3E21-DB1E823EB33D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D6BD0F33-344B-426B-9EE9-BC1B8E82C578}
+	EndGlobalSection
+EndGlobal
